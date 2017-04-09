@@ -1,0 +1,36 @@
+
+Vocabularies for CS
+
+I record new words from materials about computer science. 
+If you are reading this word list, I hope you can collect new words by yourself. 
+In this way, I am sure you are able to remember new words more effectively than learning my copy by rote.
+I actually prefer to record new words in Evernote, which can be more convenient for me, but I will push this once a week.
+
+All right, here we go ~
+
+------------------------------------------------------------------------------------------------------------------------
+
+security shell              SSH
+secret key                  密钥
+public key                  公钥
+private key                 私钥
+call                        调用
+
+recursion                   递归 
+iteration                   迭代
+robust                      健壮的
+reusable                    可重用的
+composable                  可组合的
+
+indentation                 缩进
+syntax                      语法
+look-and-feel               界面外观    
+tool-integration            工具集成
+IDEs                        integrated development environments
+SML/NJ                      Standard ML of New Jersey complier         
+
+disk image file (.dmg)      磁盘映像
+binary                      二进制
+shortcuts                   快捷键
+cursor                      光标
+buffer                      缓冲区
