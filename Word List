@@ -1,7 +1,7 @@
 
 Vocabularies for CS
 
-I record new words from materials about computer science. 
+I record new words here from materials about computer science. 
 If you are reading this word list, I hope you can collect new words by yourself. 
 In this way, I am sure you are able to remember new words more effectively than learning my copy by rote.
 I actually prefer to record new words in Evernote, which can be more convenient for me, but I will push this once a week.
@@ -27,10 +27,36 @@ syntax                      语法
 look-and-feel               界面外观    
 tool-integration            工具集成
 IDEs                        integrated development environments
-SML/NJ                      Standard ML of New Jersey complier         
+SML/NJ                      Standard Machine language of New Jersey complier         
 
 disk image file (.dmg)      磁盘映像
 binary                      二进制
 shortcuts                   快捷键
 cursor                      光标
 buffer                      缓冲区
+evaluation                  赋值
+REPL                        read-eval-print loop 读取-赋值-输出 循环 （交互式编程环境）
+test cases                  测试用例
+
+------------------------------------------------------In Machine Learning----------------------------------------------------
+linear regression           线性回归
+linear algebra              线性代数
+Silicon Valley              硅谷
+up-vote                     赞成投票
+discrete                    分离的
+continuous                  连续的
+cluster                     簇
+decimal delimiter           小数分隔符
+fraction                    分数
+vector                      向量
+notation                    标记
+denote                      表示
+gradient descent            梯度下降
+calculus                    微积分
+derivative                  导数
+tangential line             切线                      
+the slope of tangent        切线的倾斜度
+steep                       陡峭的
+convergence                 相交
+simultaneous update         同时更新
+-----------------------------------------------------------------------------------------------------------------------------
